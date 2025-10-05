@@ -21,9 +21,9 @@ This project aims to help companies:
 - Cleaned categorical and numeric features  
 - Created a new cleaned dataset for modeling  
 
-> 📁 See **EDA & Data Cleaning notebook** for detailed exploration steps.
+📁 See **EDA & Data Cleaning notebook** for detailed exploration steps.
 
----
+
 
 ### 2. Modeling and Evaluation
 This notebook focuses on building and comparing several **tree-based machine learning models** using the cleaned dataset.
@@ -81,16 +81,9 @@ The **LightGBM model** is the most reliable for predicting customer churn.
 It achieves a strong balance between accuracy, recall, and ROC-AUC — making it ideal for identifying customers likely to leave.
 
 
----
 
 ## 🧰 Tools and Libraries
 - Python  
 - Pandas, NumPy, Matplotlib, Scikit-learn  
 - XGBoost, LightGBM  
 - Jupyter Notebook  
-
-
-## 📁 Files
-- `Telco_Customer_Churn_EDA_Cleaning.ipynb` – Data exploration and cleaning  
-- `Telco_Customer_Churn_Modeling.ipynb` – Model training and evaluation  
-- `Telco_Customer_Churn_Cleaned.csv` – Final cleaned dataset  
