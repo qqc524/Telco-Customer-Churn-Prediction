@@ -78,7 +78,7 @@ Each model was evaluated using:
 
 ## ✅ Conclusion
 The **LightGBM model** is the most reliable for predicting customer churn.  
-It achieves a strong balance between accuracy, recall, and ROC-AUC — making it ideal for identifying customers likely to leave.
+It achieves a strong balance between accuracy, recall, and ROC-AUC - making it ideal for identifying customers likely to leave.
 
 
 
